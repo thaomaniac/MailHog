@@ -9,7 +9,7 @@ import (
 
 	"github.com/gorilla/pat"
 	"github.com/ian-kent/go-log/log"
-	"github.com/mailhog/MailHog-Server/api"
+	"github.com/thaomaniac/MailHog/mailhog-server-api"
 	cfgapi "github.com/mailhog/MailHog-Server/config"
 	"github.com/mailhog/MailHog-Server/smtp"
 	"github.com/mailhog/MailHog-UI/assets"
